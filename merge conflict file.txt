@@ -2,7 +2,7 @@ merge conflict file
 
 class Java{
    public static void main(String[] arge){
-
+        int intNumber = 10;
      System.out.println("Java Demo File");
   }
 }
