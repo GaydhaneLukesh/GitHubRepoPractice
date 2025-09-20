@@ -3,6 +3,7 @@ merge conflict file
 class Java{
    public static void main(String[] arge){
         int intNumber = 10;
+     String str = "Java is in conflict";
      System.out.println("Java Demo File");
   }
 }
