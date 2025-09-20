@@ -1,0 +1,8 @@
+merge conflict file
+
+class Java{
+   public static void main(String[] arge){
+
+     System.out.println("Java Demo File");
+  }
+}
